@@ -1,0 +1,425 @@
+[
+  {
+    "title": "Maine Tere Liye (From \"Anand\")",
+    "artist": "Mukesh",
+    "album": "Safarnama - Rajesh Khanna",
+    "year": "1971",
+    "query": "Maine Tere Liye (From \"Anand\") Mukesh Safarnama - Rajesh Khanna",
+    "genre": "Classic Bollywood 60s & 70s",
+    "track_num": 1
+  },
+  {
+    "title": "O Haseena Zulfonwale Jane Jahan (From \"Teesri Manzil\")",
+    "artist": "Asha Bhosle, Mohammed Rafi",
+    "album": "Safarnama - Shammi Kapoor",
+    "year": "1966",
+    "query": "O Haseena Zulfonwale Jane Jahan (From \"Teesri Manzil\") Asha Bhosle, Mohammed Rafi Safarnama - Shammi Kapoor",
+    "genre": "Classic Bollywood 60s & 70s",
+    "track_num": 2
+  },
+  {
+    "title": "Aaj Ki Raat",
+    "artist": "Shankar",
+    "album": "Don - The Chase Begins Again",
+    "year": "1978",
+    "query": "Aaj Ki Raat Shankar Don - The Chase Begins Again",
+    "genre": "Classic Bollywood 60s & 70s",
+    "track_num": 3
+  },
+  {
+    "title": "Oh Re Ghungroo Ka Bole",
+    "artist": "Lata Mangeshkar",
+    "album": "Hare Rama Hare Krishna",
+    "year": "1971",
+    "query": "Oh Re Ghungroo Ka Bole Lata Mangeshkar Hare Rama Hare Krishna",
+    "genre": "Classic Bollywood 60s & 70s",
+    "track_num": 4
+  },
+  {
+    "title": "Badtameez Dil",
+    "artist": "Benny Dayal, Shefali Alvaris",
+    "album": "Best Party Songs",
+    "year": "1990",
+    "query": "Badtameez Dil Benny Dayal, Shefali Alvaris Best Party Songs",
+    "genre": "Evergreen Romance 80s & 90s",
+    "track_num": 6
+  },
+  {
+    "title": "Ranjhana",
+    "artist": "Akhil Sachdeva",
+    "album": "Badtameez Dil",
+    "year": "1990",
+    "query": "Ranjhana Akhil Sachdeva Badtameez Dil",
+    "track_num": 7,
+    "genre": "Evergreen Romance 80s & 90s"
+  },
+  {
+    "title": "Tauba Tauba",
+    "artist": "Salim",
+    "album": "Kaal",
+    "year": "2005",
+    "query": "Tauba Tauba Salim Kaal",
+    "genre": "2000s Bollywood Hits",
+    "track_num": 8
+  },
+  {
+    "title": "Desi Girl",
+    "artist": "Vishal Dadlani, Vishal &amp; Shekhar, Shankar Mahadevan, Sunidhi Chauhan ft. Cardi B",
+    "album": "Dostana",
+    "year": "2008",
+    "query": "Desi Girl Vishal Dadlani, Vishal &amp; Shekhar, Shankar Mahadevan, Sunidhi Chauhan ft. Cardi B Dostana",
+    "genre": "2000s Bollywood Hits",
+    "track_num": 9
+  },
+  {
+    "title": "Safarnama",
+    "artist": "Lucky Ali, A.R. Rahman",
+    "album": "Tamasha",
+    "year": "2015",
+    "query": "Safarnama Lucky Ali, A.R. Rahman Tamasha",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 11
+  },
+  {
+    "title": "Safarnama (From \"Tamasha\")",
+    "artist": "Lucky Ali ft. Ranbir Kapoor",
+    "album": "Road Tripping",
+    "year": "2015",
+    "query": "Safarnama (From \"Tamasha\") Lucky Ali ft. Ranbir Kapoor Road Tripping",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 12
+  },
+  {
+    "title": "London Thumakda",
+    "artist": "Amit Trivedi, Labh Janjua, Sonu Kakkar, Neha Kakkar",
+    "album": "Queen",
+    "year": "2014",
+    "query": "London Thumakda Amit Trivedi, Labh Janjua, Sonu Kakkar, Neha Kakkar Queen",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 13
+  },
+  {
+    "title": "London Thumakda (From \"Queen\")",
+    "artist": "Labh Janjua, Sonu Kakkar, Neha Kakkar",
+    "album": "Shaadi Wale Songs - Super Hit Hindi Wedding Songs",
+    "year": "2014",
+    "query": "London Thumakda (From \"Queen\") Labh Janjua, Sonu Kakkar, Neha Kakkar Shaadi Wale Songs - Super Hit Hindi Wedding Songs",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 14
+  },
+  {
+    "title": "High Heels Te Nachche (From \"Ki & Ka\")",
+    "artist": "Meet Bros, Yo Yo Honey Singh ft. Jaz Dhami, Aditi Singh Sharma",
+    "album": "Haseeno Ka Deewana Top 10 Dance Songs 2016",
+    "year": "2015",
+    "query": "High Heels Te Nachche (From \"Ki & Ka\") Meet Bros, Yo Yo Honey Singh ft. Jaz Dhami, Aditi Singh Sharma Haseeno Ka Deewana Top 10 Dance Songs 2016",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 15
+  },
+  {
+    "title": "Badtameez Dil (From \"Yeh Jawaani Hai Deewani\")",
+    "artist": "Pritam, Benny Dayal, Shefali Alvares, Amitabh Bhattacharya ft. Ranbir Kapoor",
+    "album": "Holi Party Anthems",
+    "year": "2013",
+    "query": "Badtameez Dil (From \"Yeh Jawaani Hai Deewani\") Pritam, Benny Dayal, Shefali Alvares, Amitabh Bhattacharya ft. Ranbir Kapoor Holi Party Anthems",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 16
+  },
+  {
+    "title": "Nashe Si Chadh Gayi",
+    "artist": "Vishal &amp; Shekhar, Arijit Singh, Caralisa Monteiro, Jaideep Sahni",
+    "album": "Befikre",
+    "year": "2016",
+    "query": "Nashe Si Chadh Gayi Vishal &amp; Shekhar, Arijit Singh, Caralisa Monteiro, Jaideep Sahni Befikre",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 17
+  },
+  {
+    "title": "Abhi Toh Party Shuru Hui Hai",
+    "artist": "Badshah, Aastha",
+    "album": "Khoobsurat",
+    "year": "2014",
+    "query": "Abhi Toh Party Shuru Hui Hai Badshah, Aastha Khoobsurat",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 18
+  },
+  {
+    "title": "High Heels Te Nachche (feat. Jaz Dhami, Aditi Singh Sharma)",
+    "artist": "Meet Bros, Yo Yo Honey Singh",
+    "album": "Bollywood Punjabi Chartbusters",
+    "year": "2018",
+    "query": "High Heels Te Nachche (feat. Jaz Dhami, Aditi Singh Sharma) Meet Bros, Yo Yo Honey Singh Bollywood Punjabi Chartbusters",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 19
+  },
+  {
+    "title": "Aankh Marey",
+    "artist": "Neha Kakkar, Mika Singh, Kumar Sanu",
+    "album": "Top 20 - Bollywood Dance Songs 2018",
+    "year": "2018",
+    "query": "Aankh Marey Neha Kakkar, Mika Singh, Kumar Sanu Top 20 - Bollywood Dance Songs 2018",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 20
+  },
+  {
+    "title": "Rom Rom Romantic (From \"Mastizaade\")",
+    "artist": "Mika Singh, Armaan Malik, Amaal Mallik",
+    "album": "Baby Doll - Sunny Leone",
+    "year": "2016",
+    "query": "Rom Rom Romantic (From \"Mastizaade\") Mika Singh, Armaan Malik, Amaal Mallik Baby Doll - Sunny Leone",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 21
+  },
+  {
+    "title": "Ghungroo",
+    "artist": "Vishal &amp; Shekhar, Arijit Singh, Shilpa Rao, Kumaar",
+    "album": "War",
+    "year": "2019",
+    "query": "Ghungroo Vishal &amp; Shekhar, Arijit Singh, Shilpa Rao, Kumaar War",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 22
+  },
+  {
+    "title": "Ghungroo (From \"War\")",
+    "artist": "Vishal &amp; Shekhar, Arijit Singh, Shilpa Rao, Kumaar",
+    "album": "Shilpa Rao Superhits",
+    "year": "2019",
+    "query": "Ghungroo (From \"War\") Vishal &amp; Shekhar, Arijit Singh, Shilpa Rao, Kumaar Shilpa Rao Superhits",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 23
+  },
+  {
+    "title": "Matargashti",
+    "artist": "Mohit Chauhan, A.R. Rahman",
+    "album": "Tamasha",
+    "year": "2015",
+    "query": "Matargashti Mohit Chauhan, A.R. Rahman Tamasha",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 24
+  },
+  {
+    "title": "Malhari",
+    "artist": "Sanjay Leela Bhansali, Vishal Dadlani, Prashant Ingole",
+    "album": "Bajirao Mastani",
+    "year": "2015",
+    "query": "Malhari Sanjay Leela Bhansali, Vishal Dadlani, Prashant Ingole Bajirao Mastani",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 25
+  },
+  {
+    "title": "Patakha Guddi (Female Version)",
+    "artist": "Nooran Sisters",
+    "album": "Highway",
+    "year": "2014",
+    "query": "Patakha Guddi (Female Version) Nooran Sisters Highway",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 26
+  },
+  {
+    "title": "Aankh Marey (From \"Simmba\")",
+    "artist": "Neha Kakkar, Mika Singh, Kumar Sanu",
+    "album": "Frolic Neha Kakkar",
+    "year": "2018",
+    "query": "Aankh Marey (From \"Simmba\") Neha Kakkar, Mika Singh, Kumar Sanu Frolic Neha Kakkar",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 27
+  },
+  {
+    "title": "Swag Se Swagat",
+    "artist": "Vishal &amp; Shekhar, Julius Packiam, Neha Bhasin, Irshad Kamil",
+    "album": "Tiger Zinda Hai",
+    "year": "2017",
+    "query": "Swag Se Swagat Vishal &amp; Shekhar, Julius Packiam, Neha Bhasin, Irshad Kamil Tiger Zinda Hai",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 28
+  },
+  {
+    "title": "Ilahi",
+    "artist": "Pritam, Arijit Singh",
+    "album": "Yeh Jawaani Hai Deewani",
+    "year": "2013",
+    "query": "Ilahi Pritam, Arijit Singh Yeh Jawaani Hai Deewani",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 29
+  },
+  {
+    "title": "Ilahi (From \"Yeh Jawaani Hai Deewani\")",
+    "artist": "Pritam, Arijit Singh",
+    "album": "Road Tripping",
+    "year": "2013",
+    "query": "Ilahi (From \"Yeh Jawaani Hai Deewani\") Pritam, Arijit Singh Road Tripping",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 30
+  },
+  {
+    "title": "Matargashti (From \"Tamasha\")",
+    "artist": "Mohit Chauhan, A.R. Rahman, Irshad Kamil ft. Ranbir Kapoor",
+    "album": "Mohit Chauhan's Greatest Hits",
+    "year": "2015",
+    "query": "Matargashti (From \"Tamasha\") Mohit Chauhan, A.R. Rahman, Irshad Kamil ft. Ranbir Kapoor Mohit Chauhan's Greatest Hits",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 31
+  },
+  {
+    "title": "Balam Pichkari",
+    "artist": "Pritam, Vishal Dadlani, Shalmali",
+    "album": "Yeh Jawaani Hai Deewani",
+    "year": "2013",
+    "query": "Balam Pichkari Pritam, Vishal Dadlani, Shalmali Yeh Jawaani Hai Deewani",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 32
+  },
+  {
+    "title": "Kar Gayi Chull",
+    "artist": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+    "album": "Kapoor & Sons (Since 1921)",
+    "year": "2016",
+    "query": "Kar Gayi Chull Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar Kapoor & Sons (Since 1921)",
+    "track_num": 33,
+    "genre": "2010s Modern Bollywood"
+  },
+  {
+    "title": "Kar Gayi Chull (Bhangra Mix By Tesher) (From \"Kapoor & Sons (Since 1921)\")",
+    "artist": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+    "album": "Kar Gayi Chull (Bhangra Mix By Tesher) (From \"Kapoor & Sons (Since 1921)\")",
+    "year": "2016",
+    "query": "Kar Gayi Chull (Bhangra Mix By Tesher) (From \"Kapoor & Sons (Since 1921)\") Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar Kar Gayi Chull (Bhangra Mix By Tesher) (From \"Kapoor & Sons (Since 1921)\")",
+    "track_num": 35,
+    "genre": "2010s Modern Bollywood"
+  },
+  {
+    "title": "Kar Gayi Chull (From \"Kapoor & Sons (Since 1921)\")",
+    "artist": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+    "album": "Raula Pai Jaan De (Bollywood Songs for Weddings)",
+    "year": "2016",
+    "query": "Kar Gayi Chull (From \"Kapoor & Sons (Since 1921)\") Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar Raula Pai Jaan De (Bollywood Songs for Weddings)",
+    "track_num": 36,
+    "genre": "2010s Modern Bollywood"
+  },
+  {
+    "title": "First Class",
+    "artist": "Pritam, Arijit Singh, Neeti Mohan",
+    "album": "Pritam Non Stop Hits",
+    "year": "2015",
+    "query": "First Class Pritam, Arijit Singh, Neeti Mohan Pritam Non Stop Hits",
+    "track_num": 37,
+    "genre": "2010s Modern Bollywood"
+  },
+  {
+    "title": "Kala Chashma",
+    "artist": "Amar Arshi, Badshah, Neha Kakkar, Indeep Bakshi, Prem &amp; Hardeep, Kumaar",
+    "album": "Party Starters",
+    "year": "2015",
+    "query": "Kala Chashma Amar Arshi, Badshah, Neha Kakkar, Indeep Bakshi, Prem &amp; Hardeep, Kumaar Party Starters",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 38
+  },
+  {
+    "title": "High Heels Te Nachche (From \"Ki & Ka\") (feat. Jaz Dhami, Aditi Singh Sharma)",
+    "artist": "Meet Bros, Yo Yo Honey Singh",
+    "album": "Naacho Naacho - Party Songs",
+    "year": "2015",
+    "query": "High Heels Te Nachche (From \"Ki & Ka\") (feat. Jaz Dhami, Aditi Singh Sharma) Meet Bros, Yo Yo Honey Singh Naacho Naacho - Party Songs",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 40
+  },
+  {
+    "title": "Baby Doll (From \"Ragini Mms 2\")",
+    "artist": "Meet Bros Anjjan, Kanika Kapoor",
+    "album": "Naacho Naacho - Party Songs",
+    "year": "2015",
+    "query": "Baby Doll (From \"Ragini Mms 2\") Meet Bros Anjjan, Kanika Kapoor Naacho Naacho - Party Songs",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 41
+  },
+  {
+    "title": "Nashe Si Chadh Gayi (From \"Befikre\")",
+    "artist": "Jaideep Sahni, Caralisa Monteiro, Vishal &amp; Shekhar, Arijit Singh",
+    "album": "Top Hits: Arijit Singh",
+    "year": "2015",
+    "query": "Nashe Si Chadh Gayi (From \"Befikre\") Jaideep Sahni, Caralisa Monteiro, Vishal &amp; Shekhar, Arijit Singh Top Hits: Arijit Singh",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 42
+  },
+  {
+    "title": "Tauba Tauba Chill Trap",
+    "artist": "Karan Aujla, MindMaker",
+    "album": "Tauba Tauba Chill Trap",
+    "year": "2015",
+    "query": "Tauba Tauba Chill Trap Karan Aujla, MindMaker Tauba Tauba Chill Trap",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 46
+  },
+  {
+    "title": "Aaj Ki Raat (From \"Stree 2\")",
+    "artist": "Amitabh Bhattacharya, Sachin",
+    "album": "Aaj Ki Raat (From \"Stree 2\")",
+    "year": "2024",
+    "query": "Aaj Ki Raat (From \"Stree 2\") Amitabh Bhattacharya, Sachin Aaj Ki Raat (From \"Stree 2\")",
+    "track_num": 48,
+    "genre": "Bollywood 2020s Hits"
+  },
+  {
+    "title": "Chaleya (From \"Jawan\")",
+    "artist": "Kumaar, Anirudh Ravichander, Arijit Singh, Shilpa Rao",
+    "album": "World Music Day - Best Of Bollywood Hits",
+    "year": "2023",
+    "query": "Chaleya (From \"Jawan\") Kumaar, Anirudh Ravichander, Arijit Singh, Shilpa Rao World Music Day - Best Of Bollywood Hits",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 49
+  },
+  {
+    "title": "Chaleya",
+    "artist": "Anirudh Ravichander, Arijit Singh, Shilpa Rao",
+    "album": "Jawan",
+    "year": "2023",
+    "query": "Chaleya Anirudh Ravichander, Arijit Singh, Shilpa Rao Jawan",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 50
+  },
+  {
+    "title": "Tauba Tauba (From \"Bad Newz\")",
+    "artist": "Karan Aujla",
+    "album": "Tauba Tauba (From \"Bad Newz\")",
+    "year": "2024",
+    "query": "Tauba Tauba (From \"Bad Newz\") Karan Aujla Tauba Tauba (From \"Bad Newz\")",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 51
+  },
+  {
+    "title": "Tauba Tauba - The Hustle Flip",
+    "artist": "Ghaint Jxtt, Aditya Pushkarna",
+    "album": "MTV Hustle 4 - Episode 11",
+    "year": "2024",
+    "query": "Tauba Tauba - The Hustle Flip Ghaint Jxtt, Aditya Pushkarna MTV Hustle 4 - Episode 11",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 52
+  },
+  {
+    "title": "Tauba Tauba - Reply Version",
+    "artist": "Pragati Nagpal",
+    "album": "Tauba Tauba - Reply Version",
+    "year": "2024",
+    "query": "Tauba Tauba - Reply Version Pragati Nagpal Tauba Tauba - Reply Version",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 53
+  },
+  {
+    "title": "Tauba Tauba - Accoustic Version",
+    "artist": "AOORA, FRIDAYYY, Singer Diamond",
+    "album": "Tauba Tauba - Accoustic Version",
+    "year": "2024",
+    "query": "Tauba Tauba - Accoustic Version AOORA, FRIDAYYY, Singer Diamond Tauba Tauba - Accoustic Version",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 54
+  },
+  {
+    "title": "Tauba Tauba - Sped Up Mix",
+    "artist": "DJ Vaggy",
+    "album": "Tauba Tauba - Sped Up Mix",
+    "year": "2024",
+    "query": "Tauba Tauba - Sped Up Mix DJ Vaggy Tauba Tauba - Sped Up Mix",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 55
+  }
+]

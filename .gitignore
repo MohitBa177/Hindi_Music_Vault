@@ -1,0 +1,37 @@
+# ── Music Files (too large for GitHub) ──
+*.mp3
+*.mp4
+*.m4a
+*.wav
+*.flac
+*.aac
+
+# ── FFmpeg binary ──
+bin/
+
+# ── Temp/build files ──
+*.tmp
+*.tmp_*
+__TEMP__*
+__RENUM__*
+temp_*
+
+# ── Cleanup/removed folders ──
+_cleanup_removed/
+_wrong_era_removed/
+_orphan_songs/
+_test_output/
+_test_download/
+
+# ── Skip-lists (user-specific) ──
+Catalogs/*_skiplist.json
+
+# ── Python cache ──
+__pycache__/
+*.pyc
+*.pyo
+
+# ── OS files ──
+Thumbs.db
+desktop.ini
+.DS_Store

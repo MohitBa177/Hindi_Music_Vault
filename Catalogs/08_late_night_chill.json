@@ -1,0 +1,884 @@
+[
+  {
+    "title": "Tum Na Jane Kis Jahan Mein Kho Gaye (From \"Sazaa\")",
+    "artist": "Lata Mangeshkar, Sahir Ludhianvi, S. D. Burman ft. Dev Anand",
+    "album": "Best of Dev Anand Hindi Hits Songs, Vol. 2",
+    "year": "1971",
+    "query": "Tum Na Jane Kis Jahan Mein Kho Gaye (From \"Sazaa\") Lata Mangeshkar, Sahir Ludhianvi, S. D. Burman ft. Dev Anand Best of Dev Anand Hindi Hits Songs, Vol. 2",
+    "track_num": 1,
+    "genre": "Classic Bollywood 60s & 70s"
+  },
+  {
+    "title": "Choo Lo X Aahatein",
+    "artist": "Akdas Hayat",
+    "album": "Choo Lo X Aahatein",
+    "year": "1953",
+    "query": "Choo Lo X Aahatein Akdas Hayat Choo Lo X Aahatein",
+    "genre": "Classic Bollywood 60s & 70s",
+    "track_num": 2
+  },
+  {
+    "title": "Shayad Meri Shaadi",
+    "artist": "Lata Mangeshkar, Kishore Kumar",
+    "album": "Souten",
+    "year": "1972",
+    "query": "Shayad Meri Shaadi Lata Mangeshkar, Kishore Kumar Souten",
+    "genre": "Classic Bollywood 60s & 70s",
+    "track_num": 3
+  },
+  {
+    "title": "Pal Pal Dil Ke Paas (From \"Blackmail\")",
+    "artist": "Kishore Kumar",
+    "album": "Blackmail",
+    "year": "1973",
+    "query": "Pal Pal Dil Ke Paas (From \"Blackmail\") Kishore Kumar Blackmail",
+    "genre": "Classic Bollywood 60s & 70s",
+    "track_num": 4
+  },
+  {
+    "title": "Husn Hai Suhana",
+    "artist": "Sameer Anjaan, Anand",
+    "album": "Coolie No.1",
+    "year": "1971",
+    "query": "Husn Hai Suhana Sameer Anjaan, Anand Coolie No.1",
+    "genre": "Classic Bollywood 60s & 70s",
+    "track_num": 5
+  },
+  {
+    "title": "Dil Mere, Pt. 1 (Male Version) (From \"Sooryavansham\")",
+    "artist": "Kumar Sanu",
+    "album": "Bollywood's Best Couple - Amitabh Bachchan & Rekha",
+    "year": "1990",
+    "query": "Dil Mere, Pt. 1 (Male Version) (From \"Sooryavansham\") Kumar Sanu Bollywood's Best Couple - Amitabh Bachchan & Rekha",
+    "track_num": 6,
+    "genre": "Evergreen Romance 80s & 90s"
+  },
+  {
+    "title": "Dil Mera Tod Diya",
+    "artist": "Nadeem",
+    "album": "Kasoor",
+    "year": "1990",
+    "query": "Dil Mera Tod Diya Nadeem Kasoor",
+    "track_num": 7,
+    "genre": "Evergreen Romance 80s & 90s"
+  },
+  {
+    "title": "Tu Kahan Hai Meri Manchali",
+    "artist": "Nisar Jaani",
+    "album": "Husn Aur Ishq",
+    "year": "1997",
+    "query": "Tu Kahan Hai Meri Manchali Nisar Jaani Husn Aur Ishq",
+    "track_num": 8,
+    "genre": "Evergreen Romance 80s & 90s"
+  },
+  {
+    "title": "Kitni Bechain Hoke (From \"Kasoor\")",
+    "artist": "Alka Yagnik, Udit Narayan",
+    "album": "Musical Mood - Romantic",
+    "year": "1994",
+    "query": "Kitni Bechain Hoke (From \"Kasoor\") Alka Yagnik, Udit Narayan Musical Mood - Romantic",
+    "genre": "Evergreen Romance 80s & 90s",
+    "track_num": 9
+  },
+  {
+    "title": "Kho Gaye Hum Kahan",
+    "artist": "Jasleen Royal, Prateek Kuhad",
+    "album": "Baar Baar Dekho",
+    "year": "1991",
+    "query": "Kho Gaye Hum Kahan Jasleen Royal, Prateek Kuhad Baar Baar Dekho",
+    "genre": "Evergreen Romance 80s & 90s",
+    "track_num": 10
+  },
+  {
+    "title": "Dil Mere",
+    "artist": "The Local Train",
+    "album": "Aalas Ka Pedh",
+    "year": "1990",
+    "query": "Dil Mere The Local Train Aalas Ka Pedh",
+    "genre": "Evergreen Romance 80s & 90s",
+    "track_num": 11
+  },
+  {
+    "title": "Pal Pal Dil Ke Paas - Title Track",
+    "artist": "Arijit Singh, Parampara Tandon, Siddharth",
+    "album": "Pal Pal Dil Ke Paas",
+    "year": "1990",
+    "query": "Pal Pal Dil Ke Paas - Title Track Arijit Singh, Parampara Tandon, Siddharth Pal Pal Dil Ke Paas",
+    "genre": "Evergreen Romance 80s & 90s",
+    "track_num": 12
+  },
+  {
+    "title": "Mohabbat Ho Na Jaye Dekha Jo Tumko",
+    "artist": "Nadeem",
+    "album": "Kasoor",
+    "year": "2001",
+    "query": "Mohabbat Ho Na Jaye Dekha Jo Tumko Nadeem Kasoor",
+    "track_num": 13,
+    "genre": "2000s Bollywood Hits"
+  },
+  {
+    "title": "Koi To Saathi Chahiye",
+    "artist": "Nadeem",
+    "album": "Kasoor",
+    "year": "2001",
+    "query": "Koi To Saathi Chahiye Nadeem Kasoor",
+    "track_num": 14,
+    "genre": "2000s Bollywood Hits"
+  },
+  {
+    "title": "Tum Se Hi",
+    "artist": "Pritam, Mohit Chauhan",
+    "album": "Jab We Met",
+    "year": "2007",
+    "query": "Tum Se Hi Pritam, Mohit Chauhan Jab We Met",
+    "genre": "2000s Bollywood Hits",
+    "track_num": 15
+  },
+  {
+    "title": "Tum Se Hi (Instrumental)",
+    "artist": "Pritam",
+    "album": "Jab We Met",
+    "year": "2007",
+    "query": "Tum Se Hi (Instrumental) Pritam Jab We Met",
+    "genre": "2000s Bollywood Hits",
+    "track_num": 17
+  },
+  {
+    "title": "Tum Se Hi (From \"Jab We Met\")",
+    "artist": "Mohit Chauhan ft. Alia Bhatt",
+    "album": "Mijaaz-E-Monsoon",
+    "year": "2007",
+    "query": "Tum Se Hi (From \"Jab We Met\") Mohit Chauhan ft. Alia Bhatt Mijaaz-E-Monsoon",
+    "genre": "2000s Bollywood Hits",
+    "track_num": 18
+  },
+  {
+    "title": "Pee Loon",
+    "artist": "Mohit Chauhan",
+    "album": "Sensational Emraan Hashmi",
+    "year": "2005",
+    "query": "Pee Loon Mohit Chauhan Sensational Emraan Hashmi",
+    "track_num": 19,
+    "genre": "2000s Bollywood Hits"
+  },
+  {
+    "title": "Shayad (From \"Love Aaj Kal\") [8-Bit Pritam & Arijit Singh Emulation]",
+    "artist": "8",
+    "album": "By Request, Vol. 118",
+    "year": "2009",
+    "query": "Shayad (From \"Love Aaj Kal\") [8-Bit Pritam & Arijit Singh Emulation] 8 By Request, Vol. 118",
+    "genre": "2000s Bollywood Hits",
+    "track_num": 20
+  },
+  {
+    "title": "Iktara",
+    "artist": "Amit Trivedi, Kavita Seth, Amitabh Bhattacharya",
+    "album": "Wake Up Sid",
+    "year": "2009",
+    "query": "Iktara Amit Trivedi, Kavita Seth, Amitabh Bhattacharya Wake Up Sid",
+    "genre": "2000s Bollywood Hits",
+    "track_num": 21
+  },
+  {
+    "title": "Iktara (From \"Wake Up Sid\")",
+    "artist": "Amit Trivedi, Kavita Seth, Amitabh Bhattacharya",
+    "album": "Best of Amit Trivedi",
+    "year": "2009",
+    "query": "Iktara (From \"Wake Up Sid\") Amit Trivedi, Kavita Seth, Amitabh Bhattacharya Best of Amit Trivedi",
+    "genre": "2000s Bollywood Hits",
+    "track_num": 22
+  },
+  {
+    "title": "Shayad",
+    "artist": "Pritam, Arijit Singh",
+    "album": "Love Aaj Kal",
+    "year": "2009",
+    "query": "Shayad Pritam, Arijit Singh Love Aaj Kal",
+    "genre": "2000s Bollywood Hits",
+    "track_num": 24
+  },
+  {
+    "title": "Shayad (Aaj Kal) (From \"Love Aaj Kal\")",
+    "artist": "Pritam, Arijit Singh",
+    "album": "Shayad (Aaj Kal) (From \"Love Aaj Kal\")",
+    "year": "2009",
+    "query": "Shayad (Aaj Kal) (From \"Love Aaj Kal\") Pritam, Arijit Singh Shayad (Aaj Kal) (From \"Love Aaj Kal\")",
+    "genre": "2000s Bollywood Hits",
+    "track_num": 25
+  },
+  {
+    "title": "Shayad (From \"Love Aaj Kal\")",
+    "artist": "Pritam, Arijit Singh",
+    "album": "Arijit Singh - India Tour Hits",
+    "year": "2009",
+    "query": "Shayad (From \"Love Aaj Kal\") Pritam, Arijit Singh Arijit Singh - India Tour Hits",
+    "genre": "2000s Bollywood Hits",
+    "track_num": 26
+  },
+  {
+    "title": "Shayad (Aaj Kal) (From \"Love Aaj Kal\" ) (From \"Love Aaj Kal\")",
+    "artist": "Pritam, Arijit Singh",
+    "album": "Arijit Singh Heartbreak Hits",
+    "year": "2009",
+    "query": "Shayad (Aaj Kal) (From \"Love Aaj Kal\" ) (From \"Love Aaj Kal\") Pritam, Arijit Singh Arijit Singh Heartbreak Hits",
+    "genre": "2000s Bollywood Hits",
+    "track_num": 28
+  },
+  {
+    "title": "Kasoor (Acoustic) (Acoustic)",
+    "artist": "Prateek Kuhad",
+    "album": "Shehron Ke Raaz",
+    "year": "2002",
+    "query": "Kasoor (Acoustic) (Acoustic) Prateek Kuhad Shehron Ke Raaz",
+    "genre": "2000s Bollywood Hits",
+    "track_num": 29
+  },
+  {
+    "title": "Shayad (Reprise)",
+    "artist": "Pritam, Arijit Singh, Madhubanti Bagchi",
+    "album": "Love Aaj Kal",
+    "year": "2009",
+    "query": "Shayad (Reprise) Pritam, Arijit Singh, Madhubanti Bagchi Love Aaj Kal",
+    "genre": "2000s Bollywood Hits",
+    "track_num": 31
+  },
+  {
+    "title": "Shayad (From \"Love Aaj Kal\") (Reprise)",
+    "artist": "Pritam, Arijit Singh, Madhubanti Bagchi",
+    "album": "Arijit Singh - Unheard Gems",
+    "year": "2009",
+    "query": "Shayad (From \"Love Aaj Kal\") (Reprise) Pritam, Arijit Singh, Madhubanti Bagchi Arijit Singh - Unheard Gems",
+    "genre": "2000s Bollywood Hits",
+    "track_num": 32
+  },
+  {
+    "title": "Raabta (Siyaah Raatein)",
+    "artist": "Pritam, Hamsika Iyer, Joi Barua, Arijit Singh, Joi",
+    "album": "Agent Vinod",
+    "year": "2017",
+    "query": "Raabta (Siyaah Raatein) Pritam, Hamsika Iyer, Joi Barua, Arijit Singh, Joi Agent Vinod",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 33
+  },
+  {
+    "title": "Raabta (Siyaah Raatein) (From \"Agent Vinod\")",
+    "artist": "Amitabh Bhattacharya, Pritam, Hamsika Iyer, Arijit Singh, Joi",
+    "album": "World Music Day - Best Of Bollywood Hits",
+    "year": "2017",
+    "query": "Raabta (Siyaah Raatein) (From \"Agent Vinod\") Amitabh Bhattacharya, Pritam, Hamsika Iyer, Arijit Singh, Joi World Music Day - Best Of Bollywood Hits",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 34
+  },
+  {
+    "title": "Tum Hi Ho",
+    "artist": "Mithoon, Arijit Singh",
+    "album": "Aashiqui 2",
+    "year": "2013",
+    "query": "Tum Hi Ho Mithoon, Arijit Singh Aashiqui 2",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 35
+  },
+  {
+    "title": "Tum Hi Ho (From \"Aashiqui 2\")",
+    "artist": "Arijit Singh, Mithoon",
+    "album": "Best Of Arijit Singh - Collection Of Romantic Songs",
+    "year": "2013",
+    "query": "Tum Hi Ho (From \"Aashiqui 2\") Arijit Singh, Mithoon Best Of Arijit Singh - Collection Of Romantic Songs",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 36
+  },
+  {
+    "title": "Phir Le Aya Dil (Reprise)",
+    "artist": "Arijit Singh",
+    "album": "Barfi",
+    "year": "2012",
+    "query": "Phir Le Aya Dil (Reprise) Arijit Singh Barfi",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 37
+  },
+  {
+    "title": "Phir Le Aya Dil",
+    "artist": "Pritam, Rekha Bhardwaj",
+    "album": "Barfi",
+    "year": "2012",
+    "query": "Phir Le Aya Dil Pritam, Rekha Bhardwaj Barfi",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 38
+  },
+  {
+    "title": "Dil Diyan Gallan (Unplugged)",
+    "artist": "Vishal &amp; Shekhar, Neha Bhasin, Irshad Kamil",
+    "album": "Tiger Zinda Hai",
+    "year": "2017",
+    "query": "Dil Diyan Gallan (Unplugged) Vishal &amp; Shekhar, Neha Bhasin, Irshad Kamil Tiger Zinda Hai",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 39
+  },
+  {
+    "title": "Phir Le Aya Dil (From \"Barfi\") (Reprise)",
+    "artist": "Pritam, Arijit Singh, Sayeed Quadri",
+    "album": "Arijit Singh Heartbreak Hits",
+    "year": "2012",
+    "query": "Phir Le Aya Dil (From \"Barfi\") (Reprise) Pritam, Arijit Singh, Sayeed Quadri Arijit Singh Heartbreak Hits",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 40
+  },
+  {
+    "title": "Hawayein",
+    "artist": "Pritam, Arijit Singh",
+    "album": "Jab Harry Met Sejal",
+    "year": "2017",
+    "query": "Hawayein Pritam, Arijit Singh Jab Harry Met Sejal",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 41
+  },
+  {
+    "title": "Raabta",
+    "artist": "Pritam, Arijit Singh",
+    "album": "Agent Vinod",
+    "year": "2017",
+    "query": "Raabta Pritam, Arijit Singh Agent Vinod",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 42
+  },
+  {
+    "title": "Khairiyat",
+    "artist": "Pritam, Arijit Singh",
+    "album": "Chhichhore",
+    "year": "2019",
+    "query": "Khairiyat Pritam, Arijit Singh Chhichhore",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 43
+  },
+  {
+    "title": "Lambiyaan Si Judaiyaan",
+    "artist": "Arijit Singh",
+    "album": "Raabta",
+    "year": "2017",
+    "query": "Lambiyaan Si Judaiyaan Arijit Singh Raabta",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 44
+  },
+  {
+    "title": "Main Tera Boyfriend (From \"Raabta\")",
+    "artist": "Neha Kakkar, Meet Bros, Arijit Singh",
+    "album": "Party Songs Neha Kakkar",
+    "year": "2017",
+    "query": "Main Tera Boyfriend (From \"Raabta\") Neha Kakkar, Meet Bros, Arijit Singh Party Songs Neha Kakkar",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 45
+  },
+  {
+    "title": "Kun Faya Kun (From \"Rockstar\")",
+    "artist": "Irshad Kamil, A.R. Rahman, Javed Ali, Mohit Chauhan",
+    "album": "World Music Day - Best Of Bollywood Hits",
+    "year": "2011",
+    "query": "Kun Faya Kun (From \"Rockstar\") Irshad Kamil, A.R. Rahman, Javed Ali, Mohit Chauhan World Music Day - Best Of Bollywood Hits",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 46
+  },
+  {
+    "title": "Nadaan Parindey",
+    "artist": "A.R. Rahman, Mohit Chauhan",
+    "album": "Rockstar",
+    "year": "2011",
+    "query": "Nadaan Parindey A.R. Rahman, Mohit Chauhan Rockstar",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 47
+  },
+  {
+    "title": "Agar Tum Saath Ho",
+    "artist": "Alka Yagnik, Arijit Singh",
+    "album": "Tamasha",
+    "year": "2015",
+    "query": "Agar Tum Saath Ho Alka Yagnik, Arijit Singh Tamasha",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 48
+  },
+  {
+    "title": "Tum Hi Ho Bandhu",
+    "artist": "Pritam, Neeraj Shridhar, Kavita Seth",
+    "album": "Cocktail",
+    "year": "2012",
+    "query": "Tum Hi Ho Bandhu Pritam, Neeraj Shridhar, Kavita Seth Cocktail",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 49
+  },
+  {
+    "title": "Khairiyat (From \"Chhichhore\")",
+    "artist": "Amitabh Bhattacharya, Pritam, Arijit Singh",
+    "album": "World Music Day - Best Of Bollywood Hits",
+    "year": "2019",
+    "query": "Khairiyat (From \"Chhichhore\") Amitabh Bhattacharya, Pritam, Arijit Singh World Music Day - Best Of Bollywood Hits",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 50
+  },
+  {
+    "title": "Khairiyat (Bonus Track)",
+    "artist": "Pritam, Arijit Singh",
+    "album": "Chhichhore",
+    "year": "2019",
+    "query": "Khairiyat (Bonus Track) Pritam, Arijit Singh Chhichhore",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 51
+  },
+  {
+    "title": "Khairiyat (Bonus Track) [From \"Chhichhore\"]",
+    "artist": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+    "album": "Brilliant Melodist Pritam",
+    "year": "2019",
+    "query": "Khairiyat (Bonus Track) [From \"Chhichhore\"] Pritam, Arijit Singh, Amitabh Bhattacharya Brilliant Melodist Pritam",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 52
+  },
+  {
+    "title": "Qaafirana",
+    "artist": "Arijit Singh, Nikhita Gandhi",
+    "album": "Kedarnath",
+    "year": "2018",
+    "query": "Qaafirana Arijit Singh, Nikhita Gandhi Kedarnath",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 53
+  },
+  {
+    "title": "Duaa (Additional Vocals : Shekhar Ravjiani)",
+    "artist": "Vishal &amp; Shekhar, Nandini Srikar, Arijit Singh, Shekhar Ravjiani",
+    "album": "Arijit Singh - Tum Hi Ho",
+    "year": "2014",
+    "query": "Duaa (Additional Vocals : Shekhar Ravjiani) Vishal &amp; Shekhar, Nandini Srikar, Arijit Singh, Shekhar Ravjiani Arijit Singh - Tum Hi Ho",
+    "track_num": 54,
+    "genre": "2010s Modern Bollywood"
+  },
+  {
+    "title": "Agar Tum Saath Ho (From \"Tamasha\")",
+    "artist": "Alka Yagnik, Arijit Singh, A.R. Rahman, Irshad Kamil",
+    "album": "Loveholic Arijit Singh",
+    "year": "2015",
+    "query": "Agar Tum Saath Ho (From \"Tamasha\") Alka Yagnik, Arijit Singh, A.R. Rahman, Irshad Kamil Loveholic Arijit Singh",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 55
+  },
+  {
+    "title": "Kabira (Encore)",
+    "artist": "Pritam, Harshdeep, Arijit Singh",
+    "album": "Yeh Jawaani Hai Deewani",
+    "year": "2013",
+    "query": "Kabira (Encore) Pritam, Harshdeep, Arijit Singh Yeh Jawaani Hai Deewani",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 56
+  },
+  {
+    "title": "Raabta (From \"Agent Vinod\")",
+    "artist": "Arijit Singh, Pritam, Amitabh Bhattacharya",
+    "album": "Best Of Arijit Singh - Collection Of Romantic Songs",
+    "year": "2017",
+    "query": "Raabta (From \"Agent Vinod\") Arijit Singh, Pritam, Amitabh Bhattacharya Best Of Arijit Singh - Collection Of Romantic Songs",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 57
+  },
+  {
+    "title": "Raabta (Kehte Hain Khuda Ne)",
+    "artist": "Pritam, Shreya Ghoshal, Arijit Singh",
+    "album": "Agent Vinod",
+    "year": "2017",
+    "query": "Raabta (Kehte Hain Khuda Ne) Pritam, Shreya Ghoshal, Arijit Singh Agent Vinod",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 58
+  },
+  {
+    "title": "Raabta (Night In A Motel)",
+    "artist": "Pritam, Arijit Singh, Aditi Singh Sharma",
+    "album": "Agent Vinod",
+    "year": "2017",
+    "query": "Raabta (Night In A Motel) Pritam, Arijit Singh, Aditi Singh Sharma Agent Vinod",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 59
+  },
+  {
+    "title": "Raabta (Kehte Hain Khuda Ne) [From \"Agent Vinod\"]",
+    "artist": "Pritam, Shreya Ghoshal, Arijit Singh, Amitabh Bhattacharya ft. Hashim Nawaz",
+    "album": "Kareena's Iconic Beats",
+    "year": "2017",
+    "query": "Raabta (Kehte Hain Khuda Ne) [From \"Agent Vinod\"] Pritam, Shreya Ghoshal, Arijit Singh, Amitabh Bhattacharya ft. Hashim Nawaz Kareena's Iconic Beats",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 60
+  },
+  {
+    "title": "Raabta (Night In A Motel) [From \"Agent Vinod\"]",
+    "artist": "Pritam, Hamsika Iyer, Arijit Singh, Amitabh Bhattacharya",
+    "album": "Timeless Love Tunes",
+    "year": "2017",
+    "query": "Raabta (Night In A Motel) [From \"Agent Vinod\"] Pritam, Hamsika Iyer, Arijit Singh, Amitabh Bhattacharya Timeless Love Tunes",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 61
+  },
+  {
+    "title": "Tera Ban Jaunga",
+    "artist": "Akhil Sachdeva, Tulsi Kumar",
+    "album": "Kabir Singh",
+    "year": "2019",
+    "query": "Tera Ban Jaunga Akhil Sachdeva, Tulsi Kumar Kabir Singh",
+    "track_num": 62,
+    "genre": "2010s Modern Bollywood"
+  },
+  {
+    "title": "Tera Ban Jaunga (From \"Kabir Singh\")",
+    "artist": "Tulsi Kumar, Akhil Sachdeva",
+    "album": "Best Of Akhil Sachdeva",
+    "year": "2019",
+    "query": "Tera Ban Jaunga (From \"Kabir Singh\") Tulsi Kumar, Akhil Sachdeva Best Of Akhil Sachdeva",
+    "track_num": 63,
+    "genre": "2010s Modern Bollywood"
+  },
+  {
+    "title": "Pashmina by Aakanksha & Ami",
+    "artist": "Aakanksha, AMI",
+    "album": "Fitoor",
+    "year": "2018",
+    "query": "Pashmina by Aakanksha & Ami Aakanksha, AMI Fitoor",
+    "track_num": 64,
+    "genre": "2010s Modern Bollywood"
+  },
+  {
+    "title": "Kasoor (From \"Dhamaka\") (Acoustic)",
+    "artist": "Prateek Kuhad",
+    "album": "Kasoor (From \"Dhamaka\") (Acoustic)",
+    "year": "2015",
+    "query": "Kasoor (From \"Dhamaka\") (Acoustic) Prateek Kuhad Kasoor (From \"Dhamaka\") (Acoustic)",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 65
+  },
+  {
+    "title": "Kaise Hua",
+    "artist": "Vishal Mishra",
+    "album": "Kabir Singh",
+    "year": "2019",
+    "query": "Kaise Hua Vishal Mishra Kabir Singh",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 66
+  },
+  {
+    "title": "Kaise Hua (From \"Kabir Singh\")",
+    "artist": "Vishal Mishra, Manoj Muntashir",
+    "album": "Vanga Vibes",
+    "year": "2019",
+    "query": "Kaise Hua (From \"Kabir Singh\") Vishal Mishra, Manoj Muntashir Vanga Vibes",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 67
+  },
+  {
+    "title": "Choo Lo",
+    "artist": "The Local Train",
+    "album": "Aalas Ka Pedh",
+    "year": "2015",
+    "query": "Choo Lo The Local Train Aalas Ka Pedh",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 68
+  },
+  {
+    "title": "Maan Meri Jaan",
+    "artist": "King",
+    "album": "Champagne Talk",
+    "year": "2015",
+    "query": "Maan Meri Jaan King Champagne Talk",
+    "track_num": 69,
+    "genre": "2010s Modern Bollywood"
+  },
+  {
+    "title": "Maan Meri Jaan (Afterlife)",
+    "artist": "King, Nick Jonas",
+    "album": "Maan Meri Jaan (Afterlife)",
+    "year": "2015",
+    "query": "Maan Meri Jaan (Afterlife) King, Nick Jonas Maan Meri Jaan (Afterlife)",
+    "track_num": 71,
+    "genre": "2010s Modern Bollywood"
+  },
+  {
+    "title": "Maan Meri Jaan (African Version)",
+    "artist": "Rayvanny, King",
+    "album": "Maan Meri Jaan (African Version)",
+    "year": "2015",
+    "query": "Maan Meri Jaan (African Version) Rayvanny, King Maan Meri Jaan (African Version)",
+    "track_num": 72,
+    "genre": "2010s Modern Bollywood"
+  },
+  {
+    "title": "Maan Meri Jaan (Afterlife) [Sped Up Version]",
+    "artist": "sped up nightcore, King, Nick Jonas",
+    "album": "Maan Meri Jaan (Afterlife) [Sped Up Version]",
+    "year": "2015",
+    "query": "Maan Meri Jaan (Afterlife) [Sped Up Version] sped up nightcore, King, Nick Jonas Maan Meri Jaan (Afterlife) [Sped Up Version]",
+    "track_num": 73,
+    "genre": "2010s Modern Bollywood"
+  },
+  {
+    "title": "Baarishein (Acoustic)",
+    "artist": "Anuv Jain",
+    "album": "Baarishein (Acoustic)",
+    "year": "2015",
+    "query": "Baarishein (Acoustic) Anuv Jain Baarishein (Acoustic)",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 75
+  },
+  {
+    "title": "Husn",
+    "artist": "Anuv Jain",
+    "album": "Husn",
+    "year": "2015",
+    "query": "Husn Anuv Jain Husn",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 76
+  },
+  {
+    "title": "King Maan Meri Jaan (Radio Edit)",
+    "artist": "Vdj Rahul",
+    "album": "King Maan Meri Jaan (Radio Edit)",
+    "year": "2015",
+    "query": "King Maan Meri Jaan (Radio Edit) Vdj Rahul King Maan Meri Jaan (Radio Edit)",
+    "track_num": 77,
+    "genre": "2010s Modern Bollywood"
+  },
+  {
+    "title": "Bekhayali Reprise (From \"T-Series Acoustics\")",
+    "artist": "Parampara Tandon, Sachet Tandon, Sachet",
+    "album": "Bekhayali Reprise (From \"T-Series Acoustics\")",
+    "year": "2015",
+    "query": "Bekhayali Reprise (From \"T-Series Acoustics\") Parampara Tandon, Sachet Tandon, Sachet Bekhayali Reprise (From \"T-Series Acoustics\")",
+    "genre": "2010s Modern Bollywood",
+    "track_num": 78
+  },
+  {
+    "title": "Naina Da Kya Kasoor",
+    "artist": "Amit Trivedi",
+    "album": "Amit Trivedi Hits",
+    "year": "2026",
+    "query": "Naina Da Kya Kasoor Amit Trivedi Amit Trivedi Hits",
+    "track_num": 79,
+    "genre": "Bollywood 2020s Hits"
+  },
+  {
+    "title": "Pashmina",
+    "artist": "Amit Trivedi",
+    "album": "Amit Trivedi Hits",
+    "year": "2026",
+    "query": "Pashmina Amit Trivedi Amit Trivedi Hits",
+    "track_num": 80,
+    "genre": "Bollywood 2020s Hits"
+  },
+  {
+    "title": "Khairiyat By Sakshi Holkar",
+    "artist": "Sakshi Holkar, Mithoon",
+    "album": "Gadar 2",
+    "year": "2023",
+    "query": "Khairiyat By Sakshi Holkar Sakshi Holkar, Mithoon Gadar 2",
+    "track_num": 81,
+    "genre": "Bollywood 2020s Hits"
+  },
+  {
+    "title": "Khairiyat (From \"Gadar 2\")",
+    "artist": "Arijit Singh, Mithoon",
+    "album": "Khairiyat (From \"Gadar 2\")",
+    "year": "2023",
+    "query": "Khairiyat (From \"Gadar 2\") Arijit Singh, Mithoon Khairiyat (From \"Gadar 2\")",
+    "track_num": 82,
+    "genre": "Bollywood 2020s Hits"
+  },
+  {
+    "title": "MAAN MERI JAAN - Khasi Version",
+    "artist": "Ontei syiemlieh",
+    "album": "MAAN MERI JAAN - Khasi Version",
+    "year": "2023",
+    "query": "MAAN MERI JAAN - Khasi Version Ontei syiemlieh MAAN MERI JAAN - Khasi Version",
+    "track_num": 83,
+    "genre": "Bollywood 2020s Hits"
+  },
+  {
+    "title": "YAH KAHANI MERI HAI AUR SHAYAD TUMHARI BHI",
+    "artist": "SATJEET RAJE",
+    "album": "YAH KAHANI MERI HAI AUR SHAYAD TUMHARI BHI",
+    "year": "2026",
+    "query": "YAH KAHANI MERI HAI AUR SHAYAD TUMHARI BHI SATJEET RAJE YAH KAHANI MERI HAI AUR SHAYAD TUMHARI BHI",
+    "track_num": 85,
+    "genre": "Bollywood 2020s Hits"
+  },
+  {
+    "title": "Baarishein",
+    "artist": "Anuv Jain",
+    "album": "Best Monsoon Songs - 2026",
+    "year": "2026",
+    "query": "Baarishein Anuv Jain Best Monsoon Songs - 2026",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 86
+  },
+  {
+    "title": "Husn (Instrumental)",
+    "artist": "Pakhi Piano Instrumentals",
+    "album": "Husn",
+    "year": "2025",
+    "query": "Husn (Instrumental) Pakhi Piano Instrumentals Husn",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 88
+  },
+  {
+    "title": "Husn (Sped Up)",
+    "artist": "LuckyMuzzic, SirChox, Harrykahanhai",
+    "album": "Husn",
+    "year": "2025",
+    "query": "Husn (Sped Up) LuckyMuzzic, SirChox, Harrykahanhai Husn",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 89
+  },
+  {
+    "title": "HUSN x MOMBATI",
+    "artist": "PAPPU DEY ft. Aditya Nautiyal",
+    "album": "HUSN x MOMBATI",
+    "year": "2024",
+    "query": "HUSN x MOMBATI PAPPU DEY ft. Aditya Nautiyal HUSN x MOMBATI",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 90
+  },
+  {
+    "title": "Husn-e-bina",
+    "artist": "Zerri flip ft. Aditya Nautiyal",
+    "album": "Husn-e-bina",
+    "year": "2024",
+    "query": "Husn-e-bina Zerri flip ft. Aditya Nautiyal Husn-e-bina",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 91
+  },
+  {
+    "title": "Husn cover",
+    "artist": "San J Saini ft. Aditya Nautiyal",
+    "album": "Husn cover",
+    "year": "2024",
+    "query": "Husn cover San J Saini ft. Aditya Nautiyal Husn cover",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 92
+  },
+  {
+    "title": "Let Her Go x Husn",
+    "artist": "babygirl69",
+    "album": "Let Her Go x Husn",
+    "year": "2026",
+    "query": "Let Her Go x Husn babygirl69 Let Her Go x Husn",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 93
+  },
+  {
+    "title": "Husn Violin",
+    "artist": "Eclipwze Sounds, Repome Roy Mondal ft. Aditya Nautiyal",
+    "album": "Husn Violin",
+    "year": "2024",
+    "query": "Husn Violin Eclipwze Sounds, Repome Roy Mondal ft. Aditya Nautiyal Husn Violin",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 94
+  },
+  {
+    "title": "HUSN 2.0 -RENDITION",
+    "artist": "Toshit Saini, Desi Fusion ft. Aditya Nautiyal",
+    "album": "HUSN 2.0 -RENDITION",
+    "year": "2025",
+    "query": "HUSN 2.0 -RENDITION Toshit Saini, Desi Fusion ft. Aditya Nautiyal HUSN 2.0 -RENDITION",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 95
+  },
+  {
+    "title": "Let Her Go x Husn (Nightcore)",
+    "artist": "Luke Muzzic ft. Aditya Nautiyal",
+    "album": "Let Her Go x Husn",
+    "year": "2024",
+    "query": "Let Her Go x Husn (Nightcore) Luke Muzzic ft. Aditya Nautiyal Let Her Go x Husn",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 98
+  },
+  {
+    "title": "Let Her Go x Husn (slowed + rain version)",
+    "artist": "Luke Muzzic",
+    "album": "Let Her Go x Husn",
+    "year": "2024",
+    "query": "Let Her Go x Husn (slowed + rain version) Luke Muzzic Let Her Go x Husn",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 99
+  },
+  {
+    "title": "Let Her Go X Husn (Cover)",
+    "artist": "raaghavan",
+    "album": "Let Her Go X Husn (Cover)",
+    "year": "2024",
+    "query": "Let Her Go X Husn (Cover) raaghavan Let Her Go X Husn (Cover)",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 100
+  },
+  {
+    "title": "Let Her Go x Husn (sped up + reverb)",
+    "artist": "Luke Muzzic",
+    "album": "Let Her Go x Husn",
+    "year": "2024",
+    "query": "Let Her Go x Husn (sped up + reverb) Luke Muzzic Let Her Go x Husn",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 101
+  },
+  {
+    "title": "Let Her Go X Husn (Cover (Slowed))",
+    "artist": "raaghavan ft. Aditya Nautiyal",
+    "album": "Let Her Go X Husn (Cover (Slowed))",
+    "year": "2024",
+    "query": "Let Her Go X Husn (Cover (Slowed)) raaghavan ft. Aditya Nautiyal Let Her Go X Husn (Cover (Slowed))",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 102
+  },
+  {
+    "title": "Let Her Go x Husn (sped up to perfection)",
+    "artist": "Luke Muzzic ft. Aditya Nautiyal",
+    "album": "Let Her Go x Husn",
+    "year": "2024",
+    "query": "Let Her Go x Husn (sped up to perfection) Luke Muzzic ft. Aditya Nautiyal Let Her Go x Husn",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 103
+  },
+  {
+    "title": "Let Her Go x Husn (Sped Up)",
+    "artist": "babygirl69 ft. Aditya Nautiyal",
+    "album": "Let Her Go x Husn",
+    "year": "2026",
+    "query": "Let Her Go x Husn (Sped Up) babygirl69 ft. Aditya Nautiyal Let Her Go x Husn",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 104
+  },
+  {
+    "title": "Choo lo (Cover) (Cover)",
+    "artist": "Adnan The Shuji",
+    "album": "Choo lo (Cover) (Cover)",
+    "year": "2023",
+    "query": "Choo lo (Cover) (Cover) Adnan The Shuji Choo lo (Cover) (Cover)",
+    "genre": "Bollywood 2020s Hits",
+    "track_num": 105
+  },
+  {
+    "title": "Let Her Go x Husn (Sped Up Nightcore)",
+    "artist": "babygirl69 ft. Aditya Nautiyal",
+    "album": "Let Her Go x Husn",
+    "year": "2026",
+    "query": "Let Her Go x Husn (Sped Up Nightcore) babygirl69 ft. Aditya Nautiyal Let Her Go x Husn",
+    "track_num": 106,
+    "genre": "Bollywood 2020s Hits"
+  },
+  {
+    "title": "Let Her Go x Husn (slowed to perfection)",
+    "artist": "Luke Muzzic ft. Aditya Nautiyal",
+    "album": "Let Her Go x Husn",
+    "year": "2024",
+    "query": "Let Her Go x Husn (slowed to perfection) Luke Muzzic ft. Aditya Nautiyal Let Her Go x Husn",
+    "track_num": 107,
+    "genre": "Bollywood 2020s Hits"
+  },
+  {
+    "title": "Husn Hai Ya Koi Qayamat Hai",
+    "artist": "Mohammed Rafi, Aarti Mukherji",
+    "album": "Saudagar",
+    "year": "1991",
+    "query": "Husn Hai Ya Koi Qayamat Hai Mohammed Rafi, Aarti Mukherji Saudagar",
+    "genre": "Hindi Devotional / Bhajan",
+    "track_num": 108
+  }
+]
